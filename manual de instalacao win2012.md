@@ -29,31 +29,31 @@ Necessita particionar o disco e reservar uma parte ao sistema emulado.
 **Processo:**
 
 1- Ao iniciar o win 2012 Server, configure a linguagem do método de entrada como: **ABNT2**.
-![alt text](i/1.jpg)
+![1](https://github.com/gualvesx/Manual-Download-Win-20212/assets/164105793/5beb3030-4971-4662-a15e-dbad54f6d514)
 
 2- Aperte a opção: **Instalar**.
-![!\[alt text\](image.png) ](i/image.png)
+![image](https://github.com/gualvesx/Manual-Download-Win-20212/assets/164105793/e6339bb1-357a-488d-951a-d4714f09c6e6)
 
 3- Selecione a 2°Opção e aperte em "Avançar".
-![!\[alt text\](image-1.png)](i/1-1-1.jpg)
+![image-1](https://github.com/gualvesx/Manual-Download-Win-20212/assets/164105793/a2fc0135-0628-4049-8073-0276c1b76bcb)
 
 4- Leia os termos e selecione a opção "Aceito os termos de uso".
-![!\[alt text\](image-2.png)](i/image-2.png)
+![image-2](https://github.com/gualvesx/Manual-Download-Win-20212/assets/164105793/3731f29c-1f11-4ff1-ba4f-bb22f670cf9b)
 
 5- Escolha a opção: **Personalizada**.
-![!\[alt text\](image-3.png)](i/image-3.png)
+![image-3](https://github.com/gualvesx/Manual-Download-Win-20212/assets/164105793/981acae4-6202-4c27-9c33-114d50fefe1e)
 
 6- Crie duas partições para sua VM.
-![!\[alt text\](image-4.png)](i/image-4.png)
+![image-4](https://github.com/gualvesx/Manual-Download-Win-20212/assets/164105793/b3a10e35-2657-4250-b67a-23b4e5552aae)
 
 7- Espere o Windows iniciar...Após, crie uma senha ao seu User.
-![!\[alt text\](image-5.png)](i/image-5.png)
+![image-5](https://github.com/gualvesx/Manual-Download-Win-20212/assets/164105793/0834f6e3-8a9d-4062-86fc-20ff33dee470)
 
 8- Aperte **Ctrl + Del** para acessar o seu User.
-![!\[alt text\](image-6.png)](i/image-6.png)
+![image-6](https://github.com/gualvesx/Manual-Download-Win-20212/assets/164105793/1d3f0f72-83cb-41b6-b4ac-2beb001d0e4b)
 
 9-Se o processo for seguido corretamente, se encontrará nesta página, passos concluidos, disfrute do sistema!
-![!\[alt text\](image-7.png)](i/image-7.png)
+![image-7](https://github.com/gualvesx/Manual-Download-Win-20212/assets/164105793/4532dac6-92dc-49cc-901e-bf75cb09410b)
 
 # Dicas adcionais:
 
